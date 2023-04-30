@@ -13,14 +13,14 @@
 <ol type='i'>
 <li>Open your github profile, and go to repository section.</li>
 <li>Give a Unique name by selecting new option.</li>
-<img src="../MLSA_Event/New_Repo_Name.png"/>
+<img src="MLSA_Event/New_Repo_Name.png"/>
 <li>Also add the readme file option.</li>
 <li>Now let's add gitignore to our repo and select Unity option in it.</li>
-<img src="../MLSA_Event/GitIgnore_unity.png"/>
+<img src="MLSA_Event/GitIgnore_unity.png"/>
 <li>Now Click on Create Repository.</li>
 </ol>
 <hr>
 <p>Congrats your repository has been created succesfully now it's time to connect it with your github desktop so we can use it to save our creations in it.</p>
-<img src="../MLSA_Event/Repo_Page.png"/>
+<img src="MLSA_Event/Repo_Page.png"/>
 
 ```Click on Open With Github Desktop```

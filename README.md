@@ -22,4 +22,5 @@
 <hr>
 <p>Congrats your repository has been created succesfully now it's time to connect it with your github desktop so we can use it to save our creations in it.</p>
 <img src="../MLSA_Event/Repo_Page.png"/>
+
 ```Click on Open With Github Desktop```

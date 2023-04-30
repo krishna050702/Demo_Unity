@@ -27,4 +27,5 @@
 
 <p>Changes in this folder will be shown in the Github Dsktop GUI.</p>
 <img src="MLSA_Event/GUI.png"/>
-<p>Click Commit to main and </p>
+<p>Click Commit to main and then push origin</p>
+<img src="MLSA_Event/PUSH.png">

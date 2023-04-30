@@ -24,3 +24,7 @@
 <img src="MLSA_Event/Repo_Page.png"/>
 
 ```Click on Open With Github Desktop```
+
+<p>Changes in this folder will be shown in the Github Dsktop GUI.</p>
+<img src="MLSA_Event/GUI.png"/>
+<p>Click Commit to main and </p>

@@ -34,6 +34,6 @@
 <h3>Welcome To Unity</h3>
 
 ```Click On New-Project and select the below shown options.```
-<img src="MLSA_Event/Unity.png">
+<img src="MLSA_Event/Unity_Pro.png">
 
 ```Click Create Project```

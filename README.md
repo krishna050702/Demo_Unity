@@ -1,4 +1,6 @@
 <hr>
+<p><a href="https://www.linkedin.com/in/krishna-mundada/">Let's Connect on Linkedin</a></p>
+<hr>
 <h3 style="color:brown;">Git and Github in Unity</h3>
 <hr>
 <p>Prerequisites</p>

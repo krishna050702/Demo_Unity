@@ -25,11 +25,11 @@ let unityData = [
       ContributorURL: 'https://github.com/KartikVhonale',
       Project_Repo: 'https://github.com/KartikVhonale/componentcookie',
     },
-
+    {
       ContributorName: 'Om Ghumre',
       ContributorURL: 'https://github.com/omg12347',
       Project_Repo: 'https://github.com/omg12347/Unity_Project',
-    },
+    }
     
   ]
  main

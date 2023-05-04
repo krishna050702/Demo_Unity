@@ -12,6 +12,11 @@ let unityData = [
     ContributorURL: 'https://github.com/krishna050702',
     Project_Repo: 'https://www.youtube.com/watch?v=Tt0z8QzfiKg&ab_channel=DisneyPlusHotstar',
   },
+  {
+      ContributorName: 'Tanisha Bharvesh',
+      ContributorURL: 'https://github.com/Tbharvesh',
+      Project_Repo: 'https://github.com/Tbharvesh/game_dev',
+    },
     {
       ContributorName: 'Vedant Kohad',
       ContributorURL: 'https://github.com/kohadved',
@@ -123,4 +128,3 @@ let unityData = [
     Project_Repo: 'https://github.com/siddu3010/Demo_Unity',
   }
 ]
-

@@ -40,6 +40,12 @@ let unityData = [
       ContributorName: 'Om Ghumre',
       ContributorURL: 'https://github.com/omg12347',
       Project_Repo: 'https://github.com/omg12347/Unity_Project',
+    }
+    ,
+    {
+      ContributorName: 'Kamalnath Dhekwar',
+      ContributorURL: 'https://github.com/kamalnathdhekwar',
+      Project_Repo: 'https://github.com/kamalnathdhekwar/GD',
     },
      {
       ContributorName: 'Godwin Shalom',

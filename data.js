@@ -1,13 +1,12 @@
 let unityData = [
-    /*
       Fomat to add your details:
       
       {
-          ContributorName: 'Your Name',
+          ContributorName: 'Adesh Bode',
           ContributorURL: "Your Github Account Link",
           ProjectName: 'Your project repo link',
       },
-      */
+      
   
     {
       ContributorName: 'Krishna Mundada',

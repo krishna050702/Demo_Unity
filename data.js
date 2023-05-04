@@ -3,16 +3,16 @@ let unityData = [
       Fomat to add your details:
       
       {
-          ContributorName: 'Your Name',
+          ContributorName: 'Your name',
           ContributorURL: "Your Github Account Link",
           ProjectName: 'Your project repo link',
       },
       */
   
     {
-      ContributorName: 'Krishna Mundada',
-      ContributorURL: 'https://github.com/krishna050702',
-      Project_Repo: 'https://www.youtube.com/watch?v=Tt0z8QzfiKg&ab_channel=DisneyPlusHotstar',
+      ContributorName: 'Yash Damdu',
+      ContributorURL: 'https://github.com/damduyr',
+      Project_Repo: 'https://github.com/damduyr/Demo_Unity',
     },
 
     {
@@ -55,8 +55,12 @@ let unityData = [
       ContributorName: 'Om Ghumre',
       ContributorURL: 'https://github.com/omg12347',
       Project_Repo: 'https://github.com/omg12347/Unity_Project',
-
-    }
-
-]
-
+    },
+    
+    {
+      ContributorName: 'Siddhesh Singabhatti',
+      ContributorURL: 'https://github.com/siddu3010',
+      Project_Repo: 'https://github.com/siddu3010/Demo_Unity',
+    },
+   
+  ]

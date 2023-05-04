@@ -19,6 +19,11 @@ let unityData = [
       ContributorName: 'Lucifer MorningStar',
       ContributorURL: 'https://github.com/Lucifer0507',
       Project_Repo: 'https://www.youtube.com/watch?v=Tt0z8QzfiKg&ab_channel=DisneyPlusHotstar',
+    },
+    {
+    ContributerName: 'Namay',
+    ContributorURL: 'https://github.com/NamayMalekar',
+    Project_Repo: 'https://github.com/NamayMalekar/unity1.git',
     }
     
   ]

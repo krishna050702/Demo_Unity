@@ -13,73 +13,74 @@ let unityData = [
     Project_Repo: 'https://www.youtube.com/watch?v=Tt0z8QzfiKg&ab_channel=DisneyPlusHotstar',
   },
   {
-      ContributorName: 'Tanisha Bharvesh',
-      ContributorURL: 'https://github.com/Tbharvesh',
-      Project_Repo: 'https://github.com/Tbharvesh/game_dev',
-    },
-    {
-      ContributorName: 'Vedant Kohad',
-      ContributorURL: 'https://github.com/kohadved',
-      Project_Repo: 'https://github.com/kohadved/Demo_Unity-1',
-},{
-      ContributorName: 'Lucifer MorningStar',
-      ContributorURL: 'https://github.com/Lucifer0507',
-      Project_Repo: 'https://www.youtube.com/watch?v=Tt0z8QzfiKg&ab_channel=DisneyPlusHotstar',
-    },
+    ContributorName: 'Tanisha Bharvesh',
+    ContributorURL: 'https://github.com/Tbharvesh',
+    Project_Repo: 'https://github.com/Tbharvesh/game_dev',
+  },
+  {
+    ContributorName: 'Vedant Kohad',
+    ContributorURL: 'https://github.com/kohadved',
+    Project_Repo: 'https://github.com/kohadved/Demo_Unity-1',
+  }, {
+    ContributorName: 'Lucifer MorningStar',
+    ContributorURL: 'https://github.com/Lucifer0507',
+    Project_Repo: 'https://www.youtube.com/watch?v=Tt0z8QzfiKg&ab_channel=DisneyPlusHotstar',
+  },
 
-    {
-      ContributorName: 'Sanchit Misra',
-      ContributorURL: 'https://github.com/Sanchit-Pro',
-      Project_Repo: 'https://github.com/Sanchit-Pro/Demo_Unity',
-},{
-      ContributorName: 'Vighnesh  Gupta',
-      ContributorURL: 'https://github.com/vighneshGupta',
-      Project_Repo: 'https://github.com/vighneshGupta',
-    },
-    {
-      ContributorName: 'Sanchit Misra',
-      ContributorURL: 'https://github.com/Sanchit-Pro',
-      Project_Repo: 'https://github.com/Sanchit-Pro/Demo_Unity',
-},{
-      ContributorName: 'Rishi  ',
-      ContributorURL: 'https://github.com/rishi899',
-      Project_Repo: 'https://github.com/rishi899',
-    },{
-      ContributorName: 'Om Ghumre',
-      ContributorURL: 'https://github.com/omg12347',
-      Project_Repo: 'https://github.com/omg12347/Unity_Project',
-    },
-     {
-        ContributorName: 'Ajinkya mohitkar',
-      ContributorURL: 'https://github.com/Lucifer0507',
-      Project_Repo: 'https://www.youtube.com/watch?v=Tt0z8QzfiKg&ab_channel=DisneyPlusHotstar',
-},
-    {
-      ContributorName: 'Pranav Shivhare',
-      ContributorURL: 'https://github.com/Pranav-69',
-      Project_Repo: 'https://github.com/Pranav-69/GameDev_ACM_P',
+  {
+    ContributorName: 'Sanchit Misra',
+    ContributorURL: 'https://github.com/Sanchit-Pro',
+    Project_Repo: 'https://github.com/Sanchit-Pro/Demo_Unity',
+  }, {
+    ContributorName: 'Vighnesh  Gupta',
+    ContributorURL: 'https://github.com/vighneshGupta',
+    Project_Repo: 'https://github.com/vighneshGupta',
+  },
+  {
+    ContributorName: 'Sanchit Misra',
+    ContributorURL: 'https://github.com/Sanchit-Pro',
+    Project_Repo: 'https://github.com/Sanchit-Pro/Demo_Unity',
+  }, {
+    ContributorName: 'Rishi  ',
+    ContributorURL: 'https://github.com/rishi899',
+    Project_Repo: 'https://github.com/rishi899',
+  }, {
+    ContributorName: 'Om Ghumre',
+    ContributorURL: 'https://github.com/omg12347',
+    Project_Repo: 'https://github.com/omg12347/Unity_Project',
+  },
+  {
+    ContributorName: 'Ajinkya mohitkar',
+    ContributorURL: 'https://github.com/Lucifer0507',
+    Project_Repo: 'https://www.youtube.com/watch?v=Tt0z8QzfiKg&ab_channel=DisneyPlusHotstar',
+  },
+  {
+    ContributorName: 'Pranav Shivhare',
+    ContributorURL: 'https://github.com/Pranav-69',
+    Project_Repo: 'https://github.com/Pranav-69/GameDev_ACM_P',
 
-    },
-    
-    {ContributorName: 'Om Ghumre',
-      ContributorURL: 'https://github.com/omg12347',
-      Project_Repo: 'https://github.com/Fridayy12/Unity',
-    }
-    ,
-    {
-      ContributorName: 'Kamalnath Dhekwar',
-      ContributorURL: 'https://github.com/kamalnathdhekwar',
-      Project_Repo: 'https://github.com/kamalnathdhekwar/GD',
-    },
-     {
-      ContributorName: 'Godwin Shalom',
-      ContributorURL: 'https://github.com/godwin-04',
-      Project_Repo: 'https://github.com/godwin-04/unity_demo',
-    },{
-       ContributorName: 'Divyanshu Wakodikar',
-       ContributorURL:'https://github.com/Divyanshu256',
-       Project_Repo:'https://github.com/Divyanshu256/devGame_ACM_div'
-    },
+  },
+
+  {
+    ContributorName: 'Om Ghumre',
+    ContributorURL: 'https://github.com/omg12347',
+    Project_Repo: 'https://github.com/Fridayy12/Unity',
+  }
+  ,
+  {
+    ContributorName: 'Kamalnath Dhekwar',
+    ContributorURL: 'https://github.com/kamalnathdhekwar',
+    Project_Repo: 'https://github.com/kamalnathdhekwar/GD',
+  },
+  {
+    ContributorName: 'Godwin Shalom',
+    ContributorURL: 'https://github.com/godwin-04',
+    Project_Repo: 'https://github.com/godwin-04/unity_demo',
+  }, {
+    ContributorName: 'Divyanshu Wakodikar',
+    ContributorURL: 'https://github.com/Divyanshu256',
+    Project_Repo: 'https://github.com/Divyanshu256/devGame_ACM_div'
+  },
   {
     ContributorName: 'Your name',
     ContributorURL: "Your Github Account Link",
@@ -90,7 +91,7 @@ let unityData = [
     ContributorName: 'Siddhesh Singabhatti',
     ContributorURL: 'https://github.com/siddu3010',
     Project_Repo: 'https://github.com/siddu3010/Demo_Unity',
-  }, 
+  },
   {
     ContributorName: 'Yash Damdu',
     ContributorURL: 'https://github.com/damduyr',
@@ -176,12 +177,12 @@ let unityData = [
     ContributorURL: 'https://github.com/siddu3010',
     Project_Repo: 'https://github.com/siddu3010/Demo_Unity',
   }
-,
-    {
-      ContributorName: 'Ankit Bhad',
-      ContributorURL: 'https://github.com/Ankzcoder/Demo_Unity',
-      Project_Repo: 'https://github.com/siddu3010/Demo_Unity',
-    },
+  ,
+  {
+    ContributorName: 'Ankit Bhad',
+    ContributorURL: 'https://github.com/Ankzcoder/Demo_Unity',
+    Project_Repo: 'https://github.com/siddu3010/Demo_Unity',
+  },
 
-  ]
+]
 

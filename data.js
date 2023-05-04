@@ -28,6 +28,10 @@ let unityData = [
     },
 
     {
+      ContributorName: 'Sanchit Misra',
+      ContributorURL: 'https://github.com/Sanchit-Pro',
+      Project_Repo: 'https://github.com/Sanchit-Pro/Demo_Unity',
+},{
       ContributorName: 'Vighnesh  Gupta',
       ContributorURL: 'https://github.com/vighneshGupta',
       Project_Repo: 'https://github.com/vighneshGupta',

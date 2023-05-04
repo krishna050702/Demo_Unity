@@ -23,7 +23,7 @@ let unityData = [
     {
       ContributorName: 'Om Ghumre',
       ContributorURL: 'https://github.com/omg12347',
-      Project_Repo: 'https://www.youtube.com/watch?v=Tt0z8QzfiKg&ab_channel=DisneyPlusHotstar',
+      Project_Repo: 'https://github.com/omg12347/Unity_Project',
     }
     
   ]

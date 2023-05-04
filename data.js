@@ -19,6 +19,11 @@ let unityData = [
       ContributorName: 'Lucifer MorningStar',
       ContributorURL: 'https://github.com/Lucifer0507',
       Project_Repo: 'https://www.youtube.com/watch?v=Tt0z8QzfiKg&ab_channel=DisneyPlusHotstar',
+    },
+    {
+        ContributerName: 'Minal Ghate',
+        CuntributorURL:'https://github.com/MinalGhate',
+        ProjectName:'https://github.com/MinalGhate/acm_gamedev',
     }
     
   ]

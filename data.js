@@ -44,6 +44,11 @@ let unityData = [
       ContributorName: 'Om Ghumre',
       ContributorURL: 'https://github.com/omg12347',
       Project_Repo: 'https://github.com/omg12347/Unity_Project',
+    },
+    {
+      ContributorName: 'Pranav Shivhare',
+      ContributorURL: 'https://github.com/Pranav-69',
+      Project_Repo: 'https://github.com/Pranav-69/GameDev_ACM_P',
     }
     ,
     {

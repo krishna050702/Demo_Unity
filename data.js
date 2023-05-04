@@ -35,6 +35,10 @@ let unityData = [
       Project_Repo: 'https://www.youtube.com/watch?v=Tt0z8QzfiKg&ab_channel=DisneyPlusHotstar',
     },
     {
+        ContributorName: 'Ansh Thakre',
+        ContributorURL: 'https://github.com/Oscuro05',
+        Project_Repo: 'https://github.com/Oscuro05/Ice-N-Berg'
+        },{
          ContributorName: 'Kamalnath Dhekwar',
         ContributorURL: ' https://github.com/kamalnathdhekwar' ,
         Project_Repo: ' https://github.com/kamalnathdhekwar/GD '
@@ -99,11 +103,9 @@ let unityData = [
       ContributorURL: 'https://github.com/vishusalampuria',
       Project_Repo: 'https://github.com/vishusalampuria/game_',
     },
-    
     {
       ContributorName: 'Siddhesh Singabhatti',
       ContributorURL: 'https://github.com/siddu3010',
       Project_Repo: 'https://github.com/siddu3010/Demo_Unity',
-    },
-
+    }
   ]

@@ -22,7 +22,7 @@ let unityData = [
     },
     {
     ContributorName: 'Khushi Kharate',
-    ContributorURL: 'https://github.com/khushi_kharate',
+    ContributorURL: 'https://github.com/kharate-khushi',
     Project_Repo: 'https://github.com/kharate-khushi/unity_demo',
     }
     

@@ -22,7 +22,7 @@ let unityData = [
     },
 
     {
-      ContributorName: 'Vighnesh Gupta',
+      ContributorName: 'Vighnesh  Gupta',
       ContributorURL: 'https://github.com/vighneshGupta',
       Project_Repo: 'https://github.com/vighneshGupta',
     }

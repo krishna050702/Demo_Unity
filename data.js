@@ -10,15 +10,11 @@ let unityData = [
       */
   
     {
-      ContributorName: 'Krishna Mundada',
-      ContributorURL: 'https://github.com/krishna050702',
-      Project_Repo: 'https://www.youtube.com/watch?v=Tt0z8QzfiKg&ab_channel=DisneyPlusHotstar',
+      ContributorName: 'Tanisha Bharvesh',
+      ContributorURL: 'https://github.com/Tbharvesh',
+      Project_Repo: 'https://github.com/Tbharvesh/Demo_Unity',
     },
 
-    {
-      ContributorName: 'Lucifer MorningStar',
-      ContributorURL: 'https://github.com/Lucifer0507',
-      Project_Repo: 'https://www.youtube.com/watch?v=Tt0z8QzfiKg&ab_channel=DisneyPlusHotstar',
-    }
+   
     
   ]

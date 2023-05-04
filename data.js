@@ -15,4 +15,10 @@ let unityData = [
       Project_Repo: 'https://github.com/siddu3010/Demo_Unity',
     },
     
+     {
+      ContributorName: 'Yash Damdu',
+      ContributorURL: 'https://github.com/damduyr',
+      Project_Repo: 'https://github.com/damduyr/Demo_Unity',
+    },
+    
   ]

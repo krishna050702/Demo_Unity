@@ -21,7 +21,7 @@ let unityData = [
       Project_Repo: 'https://www.youtube.com/watch?v=Tt0z8QzfiKg&ab_channel=DisneyPlusHotstar',
     },
     {
-      ContributorName: 'Rishi',
+      ContributorName: 'Rishi  ',
       ContributorURL: 'https://github.com/rishi899',
       Project_Repo: 'https://github.com/rishi899',
     },

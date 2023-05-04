@@ -21,6 +21,12 @@ let unityData = [
       Project_Repo: 'https://www.youtube.com/watch?v=Tt0z8QzfiKg&ab_channel=DisneyPlusHotstar',
     },
     {
+      ContributorName: 'Shehzan Sheikh',
+      ContributorURL: 'https://github.com/shehzansk',
+      Project_Repo: 'https://github.com/shehzansk/Unity-Demo',
+    },
+
+{
         ContributerName: 'Minal Ghate',
         CuntributorURL:'https://github.com/MinalGhate',
         ProjectName:'https://github.com/MinalGhate/acm_gamedev',
@@ -34,10 +40,12 @@ let unityData = [
           ProjectName: 'https://github.com/akhileshh-b/Unity1',
       },
 {
+
       ContributorName: 'Om Ghumre',
       ContributorURL: 'https://github.com/omg12347',
       Project_Repo: 'https://github.com/omg12347/Unity_Project',
 
     }
+
     
   ]

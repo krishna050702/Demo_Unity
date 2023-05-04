@@ -20,6 +20,11 @@ let unityData = [
       ContributorURL: 'https://github.com/Lucifer0507',
       Project_Repo: 'https://www.youtube.com/watch?v=Tt0z8QzfiKg&ab_channel=DisneyPlusHotstar',
     },
+    {
+      ContributorName: 'Rudra Ranjan',
+      ContributorURL: 'https://github.com/rudra141',
+      Project_Repo: 'https://github.com/rudra141/Unity_project',
+    },
     
     {
       ContributorName: 'Pranav Shivhare',

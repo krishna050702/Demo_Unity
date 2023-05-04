@@ -12,7 +12,7 @@ let unityData = [
     {
       ContributorName: 'Tanisha Bharvesh',
       ContributorURL: 'https://github.com/Tbharvesh',
-      Project_Repo: 'https://github.com/Tbharvesh/Demo_Unity',
+      Project_Repo: 'https://github.com/Tbharvesh/game_dev',
     },
 
    

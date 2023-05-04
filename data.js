@@ -19,12 +19,17 @@ let unityData = [
       ContributorName: 'Lucifer MorningStar',
       ContributorURL: 'https://github.com/Lucifer0507',
       Project_Repo: 'https://www.youtube.com/watch?v=Tt0z8QzfiKg&ab_channel=DisneyPlusHotstar',
-    }
+    },
+    {
+      ContributorName: 'Om Ghumre',
+      ContributorURL: 'https://github.com/omg12347',
+      Project_Repo: 'https://github.com/omg12347/Unity_Project',
+    },
     
     {
-    ContributorName: 'Siddhesh Singabhatti',
+      ContributorName: 'Siddhesh Singabhatti',
       ContributorURL: 'https://github.com/siddu3010',
       Project_Repo: 'https://github.com/siddu3010/Demo_Unity',
-    }.
-    
+    },
+   
   ]

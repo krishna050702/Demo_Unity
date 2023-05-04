@@ -36,7 +36,7 @@ let unityData = [
       ContributorName: 'Rishi  ',
       ContributorURL: 'https://github.com/rishi899',
       Project_Repo: 'https://github.com/rishi899',
-    },
+    },{
       ContributorName: 'Om Ghumre',
       ContributorURL: 'https://github.com/omg12347',
       Project_Repo: 'https://github.com/omg12347/Unity_Project',
